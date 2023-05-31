@@ -22,12 +22,10 @@ table, th, td {
 }
 </style>
 
-<img src="../assets/img/logo.png" style="float: left; height: 60px">
+
 
 <div style="margin-left: 20px">
     <div style="font-size: 18px">Data Pendaftaran Siswa Baru | TAHUN 2020</div>
-    <div style="font-size:20px">SMK NEGERI DARUL ULUM</div>
-    <div style="font-size: 12px">Dusun Krajan, Wringin Putih, Muncar, Kabupaten Banyuwangi, Jawa Timur 68472</div>
 </div>
 
 <hr style="border: 0.5px solid black; margin: 10px 5px 10px 5px;">';
