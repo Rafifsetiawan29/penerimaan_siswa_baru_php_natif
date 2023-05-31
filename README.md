@@ -1,11 +1,6 @@
 # PPDB Online Sekolah
-Aplikasi Pendaftaran Siswa Baru - Youtube @edicode https://youtube.com/c/edicode
+Aplikasi Pendaftaran Siswa Baru 
 
-Video tutorial :
-https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
-
-Demo Landing Page :
-https://edikode.github.io/pendaftaran-yt/
 
 Menggunakan :
 - Template SB-Admin 2
